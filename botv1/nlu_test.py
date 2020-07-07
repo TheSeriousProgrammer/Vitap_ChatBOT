@@ -6,7 +6,6 @@ from json import dumps
 
 nlp_interpreter = Interpreter.load("./models/current/nlu")
 
-!q
 while True :
     inpQuery = str(input("Enter your query:"))
     response_nlp = nlp_interpreter.parse(inpQuery)

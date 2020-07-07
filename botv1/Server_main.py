@@ -33,7 +33,7 @@ class ChatbotServer(tornado.web.RequestHandler):
                 response = handleNLPQuery(query)
                 if(response["mode"])==-1:
                     open("dontKnowWhatToDo",'a').write(query+"\n\n")
-                self.write(dumps(handleNLPQuery(response)))
+                self.write(dumps(response))
             else:
                 open("unsatisfieldLogs",'a').write(
                     query+"\n\n"
