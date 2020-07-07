@@ -10,7 +10,7 @@ from termcolor import cprint
 
 PATH = "../Scraped_files"
 
-es = Elasticsearch("---elasticsearch link here-----")
+es = Elasticsearch(open("/BONSAI",'r').read().strip()) #ElasticSearch URL Stored Here
 
 spellCorrector = SpellChecker(local_dictionary=(PATH+"/word_corpus"))
 
