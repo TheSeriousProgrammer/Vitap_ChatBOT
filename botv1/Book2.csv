@@ -1,0 +1,185 @@
+Sl. No,Emp. ID,Salutation,Name of the Faculty member,Faculty/Staff,Designation,Department,Cabin No,Block,Ext No
+1,70099,Dr.,Anubendu Adhikary,Faculty,Assistant Professor- Grade 2,Chemistry,125-H,AB-2,5699
+2,70106,Dr.,R Paramasivam,Faculty,Associate Professor Sr. Grade-1,Chemistry,125-E,AB-2,5694
+3,70119,Dr.,Selvakumar Karuthapandi,Faculty,Assistant Professor Grade-2,Chemistry,125-G,AB-2,5696
+4,70127,Dr.,Tufan Ghosh,Faculty,Assistant Professor Grade-1,Chemistry,125-D,AB-2,5693
+5,70137,Dr.,Chalasani Rajesh,Faculty,Assistant Professor Grade-1,Chemistry,125-F,AB-2,5695
+6,70003,Dr.,Hari Seetha,Faculty,Professor ,Computer Science Engineering,326-G,AB-1,5162
+7,70008,Dr.,Pradeep Reddy CH,Faculty,Associate Professor,Computer Science Engineering,163,AB-1,5163
+8,70023,Dr.,Soubhagya Sankar Barpanda,Faculty,Associate Professor,Computer Science Engineering,171,AB-1,5171
+9,70028,Dr.,Srinivasa Rao B,Faculty,Associate Professor,Computer Science Engineering,143,AB-1,5143
+10,70029,Mr.,Ajith Jubilson E,Faculty,Assistant Professor,Computer Science Engineering,164,AB-1,5164
+11,70032,Mr.,Hussain Syed,Faculty,Assistant Professor,Computer Science Engineering,167,AB-1,5167
+12,70034,Ms.,Deepasikha Mishra,Faculty,Assistant Professor,Computer Science Engineering,170,AB-1,5170
+13,70035,Mr.,Karthikeyan S,Faculty,Assistant Professor,Computer Science Engineering,165,AB-1,5165
+14,70043,Dr.,Ravi Sankar Sangam,Faculty,Associate Professor,Computer Science Engineering,169,AB-1,5169
+15,70051,Dr.,Saroj Kumar Panigrahy,Faculty,Associate Professor,Computer Science Engineering,329-B,AB-1,5360
+16,70054,Mr.,Asish Kumar Dalai,Faculty,Assistant Professor,Computer Science Engineering,329-C,AB-1,5361
+17,70066,Mr.,Ravi Sankar Barpanda,Faculty,Assistant Professor,Computer Science Engineering,328-F,AB-1,5354
+18,70067,Dr.,Anupama Namburu,Faculty,Associate Professor,Computer Science Engineering,328-G,AB-1,5355
+19,70070,Dr.,Amogh Katti,Faculty,Associate Professor,Computer Science Engineering,328-J,AB-1,5358
+20,70071,Mr.,Hari Kishan Kondaveeti,Faculty,Assistant Professor (Junior),Computer Science Engineering,326-A,AB-1,5341
+21,70079,Dr.,Nandha Kumar R,Faculty,Associate Professor,Computer Science Engineering,424-A,AB-1,5451
+22,70084,Dr.,Sibi Chakkaravarthy  S,Faculty,Associate Professor,Computer Science Engineering,424-F,AB-1,5456
+23,70087,Dr.,Sudhakar Ilango S,Faculty,Associate Professor,Computer Science Engineering,424-I,AB-1,5459
+24,70088,Dr.,Balu Laxman Parne,Faculty,Associate Professor,Computer Science Engineering,424-J,AB-1,5460
+25,70093,Dr.,Vijaya J,Faculty,Associate Professor,Computer Science Engineering,168,AB-1,5168
+26,70102,Dr.,BKSP Kumarraju Alluri,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,328-B,AB-1,5350
+27,70103,Dr.,Aravapalli Rama Satish,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,328-E,AB-1,5353
+28,70104,Dr.,Nagaraju Devarakonda,Faculty,Associate Professor Grade-1,Computer Science Engineering,328-C,AB-1,5352
+29,70107,Dr.,S Gopikrishnan ,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,328-H,AB-1,5356
+30,70108,Dr.,Mallikharjuna Rao K,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,326-B,AB-1,5342
+31,70110,Dr.,Jonnadula Harikiran,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,166,AB-1,5166
+32,70113,Ms.,Garima Singh,Faculty,Assistant Professor Junior,Computer Science Engineering,124-E,AB-2,5683
+33,70121,Ms.,Ashwini Umakant Rahangdale,Faculty,Assistant Professor,Computer Science Engineering,310-C,AB-1,5313
+34,70122,Dr.,D Sumathi ,Faculty,Associate Professor Grade-1,Computer Science Engineering,313-B,AB-1,5324
+35,70123,Dr.,Prabha Selvaraj,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,326-F,AB-1,5376
+36,70124,Mr.,Nitesh Asaramji Funde,Faculty,Assistant Professor,Computer Science Engineering,124-B,AB-2,5680
+37,70125,Mr.,Sandipan Maiti,Faculty,Assistant Professor,Computer Science Engineering,124-C,AB-2,5681
+38,70129,Dr.,Shruti Mishra,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,310-A,AB-1,5311
+39,70132,Dr.,K Gokulnath ,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,162,AB-1,5161
+40,70135,Dr.,Sunil Kumar Singh,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,124-D,AB-2,5682
+41,70136,Dr.,Abhijit Adhikari,Faculty,Assistant Professor Grade-1,Computer Science Engineering,310-B,AB-1,5312
+42,70140,Dr.,Ganesh Reddy Karri,Faculty,Assistant Professor Sr. Grade-1,Computer Science Engineering,313-A,AB-1,5323
+43,70010,Dr.,Thahiya Afzal R,Faculty,Assistant Professor (Senior),Department of Languages,G24-J,AB-2,5588
+44,70017,Dr.,Subbalakshmi A V V S ,Faculty,Assistant Professor (Senior),Department of Languages,125,AB-1,5678
+45,70039,Dr.,Susmitha Shyamsundar,Faculty,Assistant Professor (Senior),Department of Languages,G24-I,AB-2,5587
+46,70040,Dr.,Narke Pankaj Ashok,Faculty,Assistant Professor,Department of Languages,G24-G,AB-2,5585
+47,70044,Dr.,Karthika V K,Faculty,Assistant Professor,Department of Languages,144,AB-1,5109
+48,70062,Dr.,Rasheda Parveen,Faculty,Assistant Professor,Department of Languages,G24-C,AB-2,5581
+49,70080,Dr.,Chandreie Mukherjee,Faculty,Assistant Professor,Department of Languages,G24-F,AB-2,5584
+50,70083,Dr.,Tannistha Dasgupta,Faculty,Assistant Professor,Department of Languages,G24-B,AB-2,5580
+51,70086,Ms.,Pragya Sengupta,Faculty,Assistant Professor (Junior),Department of Languages,422-C,AB-1,5463
+52,70095,Mr.,Carlin Pouamou,Faculty,Assistant Professor (Junior),Department of Languages,G24-A,AB-2,5579
+53,70109,Dr.,Sudesh Manger,Faculty,Assistant Professor Grade-1,Department of Languages,G24-E,AB-2,5583
+54,70126,Dr.,Sonali Roy,Faculty,Assistant Professor Grade-1,Department of Languages,G24-D,AB-2,5582
+55,70004,Dr.,Srinivas S,Faculty,Professor,Department of Mathematics,313-H,AB-1,5331
+56,70006,Dr.,Satyanarayana Badeti,Faculty,Assistant Professor (Senior),Department of Mathematics,G23-J,AB-2,5575
+57,70015,Dr.,Sudhakar M,Faculty,Assistant Professor ,Department of Mathematics,G23-B,AB-2,5567
+58,70022,Dr.,Phani Kumar M,Faculty,Assistant Professor (Senior),Department of Mathematics,G23-C,AB-2,5568
+59,70030,Dr.,Santanu Mandal,Faculty,Assistant Professor (Senior),Department of Mathematics,G23-A,AB-2,5566
+60,70041,Dr.,Venkatrajam Marka,Faculty,Assistant Professor,Department of Mathematics,G23-D,AB-2,5569
+61,70057,Dr.,Nikunja Bihari Barik,Faculty,Assistant Professor,Department of Mathematics,G23-H,AB-2,5573
+62,70064,Dr.,Manoj Kumar Mishra,Faculty,Assistant Professor,Department of Mathematics,G23-G,AB-2,5572
+63,70068,Dr.,Bhupesh Dutt Sharma,Faculty,Assistant Professor ,Department of Mathematics,G23-F,AB-2,5571
+64,70097,Dr.,Komandla Mahipal Reddy,Faculty,Assistant Professor- Grade 1,Department of Mathematics,G23-E,AB-2,5570
+65,70098,Dr.,Vemula Ramakrishna Reddy,Faculty,Assistant Professor- Grade 2,Department of Mathematics,G23-I,AB-2,5574
+66,70111,Dr.,Shikha Pandey,Faculty,Assistant Professor- Grade 1,Department of Mathematics,124-K,AB-2,5689
+67,70116,Dr.,R Sinuvasan,Faculty,Assistant Professor Grade-1,Department of Mathematics,124-N,AB-2,5675
+68,70117,Mr.,Ankur,Faculty,Assistant Professor (Junior),Department of Mathematics,124-M,AB-2,5676
+69,70118,Dr.,Shalini,Faculty,Assistant Professor Grade-1,Department of Mathematics,124-L,AB-2,5677
+70,70131,Dr.,Tanuj Kumar,Faculty,Assistant Professor ,Department of Mathematics,124-J,AB-2,5688
+71,70005,Dr.,Madhusudhana Rao N,Faculty,Professor,Department of Physics,151,AB-1,5151
+72,70012,Dr.,Khadheer Pasha Sk,Faculty,Assistant Professor (Senior),Department of Physics,G 30,AB-1,5444
+73,70031,Dr.,Roopas Kiran Sirugudu,Faculty,Assistant Professor,Department of Physics,152,AB-1,5152
+74,70033,Dr.,Sudagar J,Faculty,Assistant Professor (Senior),Department of Physics,153,AB-1,5153
+75,70048,Dr.,Murty V R K,Faculty,Professor,Department of Physics,130,AB-1,5128
+76,70058,Dr.,Debajit Goswami,Faculty,Assistant Professor (Senior),Department of Physics,329-H,AB-1,5366
+77,70089,Dr.,Manmadha Rao Banki,Faculty,Assistant Professor,Department of Physics,422-A,AB-1,5461
+78,70091,Dr.,Anita Sagadevan Ethiraj,Faculty,Associate Professor,Department of Physics,158,AB-1,5158
+79,70112,Dr.,Lakshmi Sowjanya Pali,Faculty,Assistant Professor Grade-1,Department of Physics,125-C,AB-2,5692
+80,70130,Dr.,Nandam Ashok,Faculty,Assistant Professor Grade-1,Department of Physics,125-B,AB-2,5691
+81,70007,Mr.,John Pradeep D,Faculty,Assistant Professor (Senior),Electronics and Communication Engineering,159,AB-1,5159
+82,70011,Mr.,Maddikera  Kalyan Chakravarthi,Faculty,Assistant Professor (Senior),Electronics and Communication Engineering,156,AB-1,5156
+83,70014,Dr.,Jagadish Chandra Mudiganti,Faculty,Associate Professor,Electronics and Communication Engineering,141,AB-1,5157
+84,70027,Dr.,Purnachand Nalluri,Faculty,Associate Professor,Electronics and Communication Engineering,160,AB-1,5160
+85,70049,Dr.,Pavan Kumar Y V ,Faculty,Associate Professor,Electronics and Communication Engineering,155,AB-1,5155
+86,70052,Mr.,Ganesh Lakshmana Kumar Moganti,Faculty,Assistant Professor (Senior),Electronics and Communication Engineering,329-G,AB-1,5365
+87,70053,Dr.,Ravindra Dhuli,Faculty,Associate Professor,Electronics and Communication Engineering,329-E,AB-1,5363
+88,70055,Dr.,Umakanta Nanda,Faculty,Associate Professor,Electronics and Communication Engineering,329-D,AB-1,5362
+89,70056,Dr.,Achintya Kumar Sarkar,Faculty,Professor,Electronics and Communication Engineering,422-G,AB-1,5364
+90,70059,Dr.,Deepak Ch ,Faculty,Associate Professor,Electronics and Communication Engineering,329-I,AB-1,5367
+91,70060,Dr.,Anoop Kumar Mishra,Faculty,Associate Professor,Electronics and Communication Engineering,328-A,AB-1,5349
+92,70061,Dr.,Sameeulla Khan Md,Faculty,Associate Professor,Electronics and Communication Engineering,329-A,AB-1,5368
+93,70063,Dr.,Arun Kumar Sinha,Faculty,Associate Professor,Electronics and Communication Engineering,328-D,AB-1,5351
+94,70074,Dr.,Deepak Kumar Panda,Faculty,Associate Professor,Electronics and Communication Engineering,326-D,AB-1,5344
+95,70075,Dr.,Rajesh Saha,Faculty,Associate Professor,Electronics and Communication Engineering,326-E,AB-1,5345
+96,70077,Dr.,Jayendra Kumar,Faculty,Associate Professor,Electronics and Communication Engineering,422-F,AB-1,5347
+97,70078,Dr.,Sudha Ellison Mathe,Faculty,Associate Professor,Electronics and Communication Engineering,422-E,AB-1,5348
+98,70081,Dr.,Nuthakki Venkata Rajasekhar,Faculty,Associate Professor,Electronics and Communication Engineering,424-C,AB-1,5453
+99,70085,Dr.,Nandeesh Kumar,Faculty,Associate professor,Electronics and Communication Engineering,424-B,AB-1,5457
+100,70090,Dr.,Sunny Dayal Vanambathina,Faculty,Associate Professor,Electronics and Communication Engineering,422-B,AB-1,5462
+101,70105,Dr.,Samineni Peddakrishna,Faculty,Assistant Professor Sr. Grade-1,Electronics and Communication Engineering,422 D,AB-1,5464
+102,70120,Dr.,Sibendu Samanta,Faculty,Assistant Professor Grade-1,Electronics and Communication Engineering,124-F,AB-2,5684
+103,70128,Ms.,Neha Gupta,Faculty,Assistant Professor Grade-1,Electronics and Communication Engineering,124-H,AB-2,5686
+104,70134,Mr.,Sunkesula Moulana Abdul Kalam Azad,Faculty,Assistant Professor Sr. Grade-1,Electronics and Communication Engineering,124-I,AB-2,5687
+105,70133,Ms.,Morampudi Mahathi,Faculty,Assistant Professor (Junior),Law,416-A,AB-2,5916
+106,70138,Ms.,Dokiburra Sherley Hepsiba,Faculty,Assistant Professor (Junior),Law,416-B,AB-2,5919
+107,70002,Dr.,Subhakar D,Faculty,Professor  & Vice Chancellor,Mechanical Engineering,Executive Area,-,5777
+108,70009,Dr.,Pankaj Balkrishna Tambe,Faculty,Professor,Mechanical Engineering,310-H,AB-1,5146
+109,70016,Dr.,Dilipkumar Mohanty,Faculty,Associate Professor,Mechanical Engineering,147,AB-1,5147
+110,70020,Dr.,Rama Sreekanth P S  ,Faculty,Associate Professor,Mechanical Engineering,148,AB-1,5148
+111,70069,Dr.,Ambuj Sharma,Faculty,Associate Professor,Mechanical Engineering,328-I,AB-1,5357
+112,70073,Dr.,Amit Kumar,Faculty,Associate Professor,Mechanical Engineering,326-C,AB-1,5343
+113,70082,Dr.,Manoj Kumar Gupta,Faculty,Associate Professor,Mechanical Engineering,424-D,AB-1,5454
+114,70092,Dr.,Manikanta Ravindra Kumar Vakkalagadda,Faculty,Associate Professor,Mechanical Engineering,145,AB-1,5145
+115,70139,Dr.,Manas Kumar Pal,Faculty,Assistant Professor Grade-1,Mechanical Engineering,146,AB-1,5190
+116,70001,Dr.,Sivakumar C  L  V,Faculty,Professor & Registrar,VIT-AP School of Business,Executive Area,,5666
+117,70013,Mr.,Samuel Johnson Israel K,Faculty,Assistant Professor (Selection Grade),VIT-AP School of Business,410,AB-1,5132
+118,70045,Dr.,Salini Rosaline Tharayil,Faculty,Assistant Professor (Senior),VIT-AP School of Business,410,AB-1,5111
+119,70047,Dr., K T Rangamani ,Faculty,Professor,VIT-AP School of Business,Finance,,5999
+120,70050,Dr.,S Jeyavelu ,Faculty,Professor,VIT-AP School of Business,410,AB-1,5144
+121,70076,Ms. ,Nimmy Rose Jacob,Faculty,Assistant Professor,VIT-AP School of Business,410,AB-1,5346
+122,70094,Dr.,Madhulika Sahoo,Faculty,Assistant Professor- Grade 1,VIT-AP School of Business,410,AB-1,5471
+123,70100,Dr.,Samir Gokarn,Faculty,Assistant Professor- Grade 1,VIT-AP School of Business,424-H,AB-1,5458
+124,70101,Dr.,Rama Koteswararao Kondasani,Faculty,Assistant Professor- Grade 2,VIT-AP School of Business,424-B,AB-1,5452
+125,70114,Dr.,Usha Seshadri,Faculty,Assistant Professor Grade-1,VIT-AP School of Business,410,AB-1,5455
+126,70141,Dr.,Kollapuri Mohan,Faculty,Assistant Professor Grade-1,VIT-AP School of Business,425-A,AB-1,
+126,10002,Mr.,DEENADAYALAN RAMA KRISHNAN,Staff,CHIEF ENGINEER,Estates,G33,AB-1,5299
+127,10003,Mr.,A.P.D.CHENNA REDDY ,Staff,Admin Officer,Estates,G33,AB-1,5941
+128,10004,Mr.,P.S.S. SAI KRISHNA,Staff,Manager,Admissions,G30,AB-1,5950/5321/5030
+129,10005,Ms.,ANURADHA REPALA,Staff,ASST.ACCOUNTS,Finance & Accounts,G37,AB-1,5937
+130,10006,Mr.,KALIDOSS DHARMARAJ,Staff,P E D,Physical Education,425-J,AB-1,5499
+131,10007,Ms.,DUGGIRALLA SUBHASINI,Staff,P E T,Physical Education,,AB-1,5499
+132,10008,Mr.,CHAITANYA R,Staff,SECRETARY,VIT-AP School of Business,410,AB-1,5942
+133,10009,Mr.,K SAI BABU,Staff,ASST.LIBRARIAN,Library, ,AB-1,5202
+134,10010,Mr.,V CHANDRA SEKHAR,Staff,PURCHASE OFFICER,Purchase & Stores,G33,AB-1,5333
+135,10011,Ms.,L TIRUPATHAMMA,Staff,SECRETARY,Academics,140,AB-1,5140
+136,10012,Ms.,L SRILAKSHMI,Staff,ASST.MANAGER HOSTEL LH,Ladies Hostel,LH,LH,5600
+137,10014,Ms.,Y BHARGAVI,Staff,SECRETARY,Ladies Hostel,LH,LH,5600
+138,10015,Ms.,V RAJESWARI,Staff,SECRETARY,Department Secretary,G24,AB-2,5524
+139,10016,Ms.,SHAHIDA BANU,Staff,SECRETARY,Executive Area,Executive Area,AB-1,5922
+140,10017,Mr.,T NOOKA RAJU,Staff,SECRETARY,Executive Area,Executive Area,AB-1,5943
+141,10018,Mr.,K DURGA PAVAN KUMAR,Staff,JUNIOR PROGRAMMER,Data Center,101,AB-1,5002
+142,10019,Mr.,E KRISHNA MURTHY,Staff,LAB.ASST MECHANICAL,Mechanical Engineering,G26,AB-1,5926
+143,10022,Ms.,N SUNEETHA,Staff,SECRETARY,Computer Science Engineering,326,AB-1,5120
+144,10023,Mr.,K CHANTI BABU,Staff,SECRETARY,Men's Hostel,MH,MH1,5501
+145,10027,Mr.,K ANJAN KUMAR,Staff,LAB.ASST ELECTRONICS,Electronics and Communication Engineering,115,AB-1,5115
+146,10028,Mr.,Y BHANU PRASAD,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+147,10030,Mr.,B. SRINIVAS,Staff,SITE ENGINEER,Estates,G33,AB-1,5295
+148,10032,Mr.,TSVSR GUPTA,Staff,SENIOR ENGINEER,Estates,G33,AB-1,5298
+149,10034,Mr.,L. MURALI KRISHNA,Staff,PUBLIC RELATIONS OFFICER,Admissions,G30,AB-1,5946
+150,10035,Mr.,R. RAJASEKHAR PATNAIK,Staff,PLACEMENTS OFFICER,PAT,229,AB-1,5947
+151,10038,Mr.,MVSS RAJU,Staff,HOSTEL MANAGER,Men's Hostel,MH,MH1,5501
+152,10040,Mr.,K KAMESWARA RAO,Staff,SECRETARY,Research ,313,AB-1,5952
+153,10041,Mr.,G. HAREESH,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+154,10045,Mr.,SK.JILANI,Staff,SECURITY OFFICER,Security,228,AB-1,5055
+155,10046,Mr.,K.S.N.VARA PRASAD,Staff,SECRETARY,Department Secretary, ,AB-1,5149
+156,10047,Mr.,KALI PRASAD PATNAIK,Staff,HOSTEL MANAGER,Men's Hostel,MH,MH2,5505
+157,10048,Mr.,SAI KIRAN NERELLA,Staff,FINANCE OFFICER,Finance & Accounts,G37,AB-1,5949
+158,10049,Mr.,DR. SIBA PRASAD PANDA,Staff,LIBRARIAN,Library, ,AB-1,5201
+159,10050,Mr.,T. RAVI KUMAR,Staff,SECRETARY,"Public Relations, Digital Marketing, Students-Society Outreach",229,AB-1,5953
+160,10051,Mr.,B TEJO SUNDAR,Staff,GARDENER SUPERVISOR,Estates,G33,AB-1,5298
+161,10052,Mr.,SRINIVASU MYLAVARAPU,Staff,SR. PUBLIC RELATIONS OFFICER,"Public Relations, Digital Marketing, Students-Society Outreach",229,AB-1,5033
+162,10054,Mr.,R.VIGNESH,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+163,10055,Mr.,R. BALAJI,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+164,10057,Mr.,K RANJITH KUMAR,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+165,10058,Mr.,J KUMAR RAJA,Staff,JUNIOR PROGRAMMER,Software Development Center,228,AB-1,5121
+166,10061,Ms.,K SEEMA,Staff,SECRETARY,Human Resources,229,AB-1,5940
+167,10062,Mr.,SHAIK MOHAMAD ESDANI,Staff,MEN'S HOSTEL SUPERVISOR ,Men's Hostel,MH,MH2,5505
+168,10063,Ms.,M NEERAJA,Staff,SECRETARY,Computer Science Engineering,313,AB-1,5120
+169,10065,Ms.,P HARITHA,Staff,MANAGER HR,Human Resources,229,AB-1,5035
+170,10066,Mr.,D KALYAN KRISHNA,Staff,SR MANAGER HR,Human Resources,229,AB-1,5948
+171,10067,Ms.,KODURI  SOWJANYA,Staff,SECRETARY,Admissions,G30,AB-1,5446
+172,10068,Mr.,RAMESH P,Staff,LAB.ASST ELECTRONICS,Electronics and Communication Engineering,115,AB-1,5115
+173,10071,Mr.,Y NAGARAJU,Staff,SECRETARY,Purchase & Stores,G33,AB-1,5945
+174,10072,Mr.,RANJAN RANA,Staff,LAB.ASST MECHANICAL,Mechanical Engineering,G26,AB-1,5926
+175,10073,Mr.,MUNASWAMY K,Staff,SITE ENGINEER,Estates,G33,AB-1,5298
+176,10074,Mr.,SHAIK KHADAR BASHA,Staff,LAB.ASST ELECTRONICS,Electronics and Communication Engineering,115,AB-1,5115
+177,10075,Mr.,BALAKRISHNA REDDY VELURI,Staff,ESTATES OFFICER,Registrar's Office,G37,AB-1,5951
+178,10076,Mr.,KORUMILLI KOTEESWARA BALAJI,Staff,SENIOR ELECTRICAL ENGINEER,Estates,G33,AB-1,5298
+179,10077,Dr.,AMBATIPUDI SEETHA MAHA LAKSHMI,Staff,COUNSELLOR,Student Welfare Department,G06,AB-1,5956
+180,10078,Mr.,D V V PRASAD BATTULA,Staff,LIBRARY ASSISTANT,Library, ,AB-1,5202
+181,10079,Ms.,SHILPA CHOWDARY L,Staff,PROGRAMMER,Software Development Center,228,AB-1,5121
+182,10080,Mr.,CHITTI BABU ARIGELA,Staff,PROJECT MANAGER - CIVIL,Estates,G33,AB-1,5298
+183,10082,Ms.,SUJITHA P,Staff,SENIOR PROGRAMMER,Software Development Center,228,AB-1,5121

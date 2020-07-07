@@ -1,0 +1,2 @@
+sudo pythoon3 -m pip install rasa-nlu~=0.15.1
+sudo python3 -m pip install tornado

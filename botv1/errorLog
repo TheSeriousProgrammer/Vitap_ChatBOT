@@ -1,0 +1,85 @@
+{
+    "query": "who is",
+    "error": "list index out of range"
+}
+
+{
+    "query": "what is",
+    "error": "list index out of range"
+}
+
+{
+    "query": "courses available",
+    "error": "list index out of range"
+}
+
+{
+    "query": "courses available",
+    "error": "list index out of range"
+}
+
+{
+    "query": "courses available",
+    "error": "list index out of range"
+}
+
+{
+    "query": "about",
+    "error": "maximum recursion depth exceeded while calling a Python object"
+}
+
+{
+    "query": "who is",
+    "error": "list index out of range"
+}
+
+{
+    "query": "about",
+    "error": "maximum recursion depth exceeded while calling a Python object"
+}
+
+{
+    "query": "who are you",
+    "error": "list index out of range"
+}
+
+{
+    "query": "who are you",
+    "error": "list index out of range"
+}
+
+{
+    "query": "what is vit",
+    "error": "maximum recursion depth exceeded while calling a Python object"
+}
+
+{
+    "query": "why shall i study at vit",
+    "error": "maximum recursion depth exceeded while calling a Python object"
+}
+
+{
+    "query": "asdfasdfa",
+    "error": "expected string or bytes-like object"
+}
+
+{
+    "query": "ahsfaad",
+    "error": "expected string or bytes-like object"
+}
+
+{
+    "query": "afsfasdf",
+    "error": "expected string or bytes-like object"
+}
+
+{
+    "query": "who is vc",
+    "error": "expected string or bytes-like object"
+}
+
+{
+    "query": "who is chidhambararajan",
+    "error": "expected string or bytes-like object"
+}
+

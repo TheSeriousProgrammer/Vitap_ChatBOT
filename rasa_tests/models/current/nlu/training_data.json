@@ -1,0 +1,70 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "checkBalance",
+        "text": "what is my balance"
+      },
+      {
+        "intent": "checkBalance",
+        "entities": [
+          {
+            "start": 25,
+            "end": 32,
+            "value": "savings",
+            "entity": "source_account"
+          }
+        ],
+        "text": "how much do I have on my savings"
+      },
+      {
+        "intent": "checkBalance",
+        "entities": [
+          {
+            "start": 25,
+            "end": 40,
+            "value": "savings",
+            "entity": "source_account"
+          }
+        ],
+        "text": "how much do I have on my savings account"
+      },
+      {
+        "intent": "checkBalance",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "yen",
+            "entity": "currency"
+          }
+        ],
+        "text": "Could I pay in yen?"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      }
+    ],
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      }
+    ],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "savings",
+        "synonyms": [
+          "savings account",
+          "pink pig"
+        ]
+      }
+    ]
+  }
+}

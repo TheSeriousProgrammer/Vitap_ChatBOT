@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/captain-america/Programming/BOT/botv1/models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/captain-america/Programming/BOT/botv1/models/current/nlu/component_5_EmbeddingIntentClassifier.ckpt"
