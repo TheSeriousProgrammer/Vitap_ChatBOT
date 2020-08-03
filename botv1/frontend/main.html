@@ -14,8 +14,15 @@
         <script>
 		var status = 0;
 		var temp =1; 
-
-		function toggle(){
+		var isInIframe = (document.URL === "https://vitap.ac.in/");
+		console.log("hello");
+		console.log(isInIframe);
+		if(isInIframe){
+                        var target = target = document.getElementById('hs-iframe');
+                        target.style.height = "100px";
+                        target.style.width = "200px";
+		}
+                function toggle(){
 			if(window.temp==1){
 				callTheBot();
 				window.temp=2;	
@@ -26,6 +33,11 @@
 				window.status=0;
 				document.getElementById("activator").innerHTML="Back to Bot";
 				document.getElementById("creator").style.display = "none";
+				if(isInIframe){
+					var target = target = document.getElementById('hs-iframe');
+					target.style.height = "100px";
+					target.style.width = "200px";
+				}
 
 			}
 			else{
@@ -35,10 +47,16 @@
 
 				window.status=1;
 				document.getElementById("activator").innerHTML="Close Bot";
+				if(isInIframe){
+                                        var target = target = document.getElementById('hs-iframe');
+                                        target.style.height = "500px";
+                                        target.style.width = "360px";
+                                }
+
 			}
 		
 		}
-		</script>
+	</script>
 
 		<div id="container" class="botui botui-app-container">
 		    <div id="my-botui-app" class="botui botui-container" >

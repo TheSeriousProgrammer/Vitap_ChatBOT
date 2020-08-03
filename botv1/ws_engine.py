@@ -7,6 +7,7 @@ from requests import get
 from os import listdir
 from pprint import pprint
 from termcolor import cprint
+from json import dumps
 
 PATH = "../Scraped_files"
 
@@ -49,14 +50,15 @@ def searchWebsite(inp_str,max_results=10):
     global es
 
     inp_str = cureQuery(inp_str)
-    response = es.search(index='vit-chatbot',body={'from':0,'size':max_results,'query':{"match":{"title":inp_str}}})
+    response = es.search(index='vit-chatbot',body={'from':0,'size':max_results,'query':{"term":{"title":inp_str}}})
     if (response['hits']['max_score'])==None :
-        response = es.search(index='vit-chatbot',body={'from':0,'size':max_results,'query':{"match":{"content":inp_str}}})
+        response = es.search(index='vit-chatbot',body={'from':0,'size':max_results,'query':{"term":{"content":inp_str}}})
         if response['hits']['max_score']==None :
             return None
+    print(response)
     return process_dict(response)
 
 if __name__=="__main__":
-    initialize()
+    #initialize()
     while True:
         pprint(searchWebsite(str(input("Enter your query:")),max_results=1000),indent = 4)
