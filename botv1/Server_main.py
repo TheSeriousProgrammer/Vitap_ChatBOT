@@ -27,7 +27,7 @@ class ChatbotServer(tornado.web.RequestHandler):
     def get(self):
         query=""
         try:
-            query=self.get_argument("query")
+            query=self.get_argument("query").lower()
             mode=self.get_argument("mode")
             if mode=="0":
                 response = handleNLPQuery(query)

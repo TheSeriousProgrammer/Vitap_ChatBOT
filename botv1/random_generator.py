@@ -71,6 +71,8 @@ nlu+="""
 - programmes available
 - what are the programmes offered
 - programmes offered
+- programmes
+- courses
 """
 nlu+=create_samples("- what are the [%s](target) courses available",randint(50,60))
 nlu+=create_samples("- [%s](target) courses offered",randint(50,60))

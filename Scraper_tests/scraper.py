@@ -211,13 +211,11 @@ def strToWords(inp_str,word_length_override=False):  #Converts string to words f
             else:
                 Spell_Check_Corpus[i]=1
 
-
-
 @synchronized
 def writeTofile(title,link,content):
     global linksCount
     with open(path+"_new/%d"%(linksCount),"w") as File :
-        File.write(dumps(({'title':title,"link":link,"content":content}),indent=4))
+        File.write(dumps(({'title':title.lower(),"link":link,"content":content.lower()}),indent=4))
     strToWords(title,word_length_override=True)
     strToWords(content)
     linksCount+=1

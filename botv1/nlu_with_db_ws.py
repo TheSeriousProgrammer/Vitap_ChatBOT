@@ -165,3 +165,4 @@ if __name__=="__main__":
         message = str(input("Enter your test query:"))
         result = handleNLPQuery(message)
         pprint(result)
+
