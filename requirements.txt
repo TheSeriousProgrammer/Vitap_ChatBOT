@@ -77,7 +77,7 @@ six==1.14.0
 sklearn-crfsuite==0.3.6
 tabulate==0.8.7
 tensorboard==1.13.1
-tensorflow==1.13.2
+tensorflow==2.5.1
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 toml==0.10.1
